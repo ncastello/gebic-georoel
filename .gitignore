@@ -1,0 +1,9 @@
+bin/*
+macros/*
+mchistos/*
+*.wrl
+build
+all_gammas.sh
+*.root
+linux
+mac
